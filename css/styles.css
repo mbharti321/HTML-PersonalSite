@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(226, 210, 255);
+    background-color: rgb(247 245 241);
 }
 
 hr {
@@ -9,4 +9,7 @@ hr {
     /* height: 0px; */
     border-width: 10px;
     width: 5%;
+}
+h1,h3{
+    color: #6fBfBf;;
 }
